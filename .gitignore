@@ -1,0 +1,12 @@
+#user - files
+*user
+
+
+#auto save
+*.autosave.*
+*.autosave
+
+
+# debug directory
+debug/
+
